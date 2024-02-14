@@ -1,7 +1,9 @@
 # Prediction of excessive avoidance learning
 These are the code, synthetic generated dataset, emotion & sentiment lexicons, training corpora and Dutch LIWC dictionaries for a research project that aims to investigate whether avoidance learning of young people can be predicted from their texts.
 
-The dataset is a synthetic generated dataset to protect the privacy of the participants. All the code developed was run on GoogleColab with a GPU type T4.
+The dataset is a synthetic generated dataset to protect the privacy of the participants and thus, the results on the code are not real as well. 
+
+All the code developed was run on GoogleColab with a GPU type T4.
 
 ## Description of the project
 The aim of this study is to investigate whether avoidance learning and emotions of young people (until 25) fluent in Dutch can be predicted from their texts. To accomplish this goal an experiment was conducted. After that, quantitative analysis, LIWC, emotion and sentiment lexicons, RobBERT, ANOVA, SVM and Multiclass Logistic Regression were used to predict and compare avoidance learning groups.
